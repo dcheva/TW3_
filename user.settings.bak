@@ -179,7 +179,7 @@ regTokenExpiryL=0
 [Rendering]
 GrassDensity=3500
 DecalsSpawnDistanceCutoff=10
-GlobalOceanTesselationFactor=32
+GlobalOceanTesselationFactor=48
 CascadeShadowFadeTreshold=1
 HairWorksGlobalWidthLimit=5
 CascadeShadowDistanceScale2=1.2
