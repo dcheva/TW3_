@@ -6,6 +6,7 @@ SpawnedLimit=130
 [Hidden]
 HasSeenGotyWelcomeMessage=true
 HasSetup=true
+WorldMapPreviewMode=1
 uiVerticalFrameScale=0.9975
 uiHorizontalFrameScale=1
 [RTXGI/GlobalGrid]
@@ -41,7 +42,7 @@ TerrainTileLoadingTimeout=5
 MaxNameLength=64
 Enabled=true
 [Audio]
-DynamicRange=1
+DynamicRange=2
 Subtitles=true
 [LoadingScreen/TCR]
 ShowProgress=true
@@ -69,7 +70,7 @@ EnableFSR1=true
 AllowBlur=false
 FSR2Quality=0
 [Input]
-PadVibrationEnabled=true
+PadVibrationEnabled=false
 KeyboardCooldownSpeed=0.1
 InvertCameraXOnMouse=false
 InvertCameraYOnMouse=false
@@ -118,13 +119,13 @@ RemapDerivative3=1
 RemapDerivative2=1
 RemapDerivative1=2
 [Gameplay]
-ConsentTelemetry=true
-Difficulty=0
-CrossProgression=true
+ConsentTelemetry=false
+Difficulty=4
+CrossProgression=false
 EnableAlternateHorseCamera=0
-AutosaveTimeInterval=5
+AutosaveTimeInterval=3
 EnableAlternateExplorationCamera=0
-EnableUberMovement=1
+EnableUberMovement=0
 EnableAlternateCombatCamera=0
 [LevelOfDetail]
 SwarmHideDistance=200
