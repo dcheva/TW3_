@@ -125,7 +125,7 @@ CrossProgression=false
 EnableAlternateHorseCamera=0
 AutosaveTimeInterval=3
 EnableAlternateExplorationCamera=0
-EnableUberMovement=0
+EnableUberMovement=1
 EnableAlternateCombatCamera=0
 [LevelOfDetail]
 SwarmHideDistance=200
