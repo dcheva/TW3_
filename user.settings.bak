@@ -42,7 +42,11 @@ TerrainTileLoadingTimeout=5
 MaxNameLength=64
 Enabled=true
 [Audio]
+SoundVolume=70
+VoiceoversVolume=80
 DynamicRange=2
+MusicVolume=70
+MasterVolume=70
 Subtitles=true
 [LoadingScreen/TCR]
 ShowProgress=true
