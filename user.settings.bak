@@ -117,7 +117,7 @@ DlcEnabled_abob_001_001=1
 DlcEnabled_dlc_012_001=1
 DlcEnabled_dlc_003_001=1
 DlcEnabled_dlc_016_001=1
-DlcEnabled_dlc_011_002=0
+DlcEnabled_dlc_011_002=1
 [Rendering/RT/RoughnessRemap]
 RemapDerivative0=0
 RemapDerivative3=1
@@ -129,6 +129,7 @@ Difficulty=4
 CrossProgression=false
 EnableAlternateHorseCamera=0
 AutosaveTimeInterval=3
+EnableAlternateSignCasting=1
 EnableAlternateExplorationCamera=0
 EnableUberMovement=1
 EnableAlternateCombatCamera=0
